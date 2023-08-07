@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(111, 22, 138);
+    width: 100%;
+    float: left;
+}
+nav .logo{
+    padding: 5%;
+}
+nav .logo a{
+    text-decoration: none;
+    color: black;
+}
+nav ul{
+    width: 60%;
+    
+}
